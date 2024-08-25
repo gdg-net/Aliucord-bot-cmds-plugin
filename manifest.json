@@ -1,0 +1,22 @@
+{
+    "authors": [
+        {
+            "id": 9366,
+            "name": "OmegaSunkey"
+        },
+        {
+            "id": 1,
+            "name": "Iryis"
+        }
+    ],
+    "links": {
+        
+    },
+    "version": "1.0.1",
+    "changelogMedia": null,
+    "description": "stupit plugin",
+    "pluginClassName": "om.ega.sunkey.AliucordRenamer.AliucordRenamer",
+    "changelog": "       # 1.0.1\n* Set text hint / texto que te dice que poner en el cuadro de texto a\u00f1adido wwww",
+    "name": "AliucordRenamer",
+    "updateUrl": "https://raw.githubusercontent.com/OmegaSunkey/awesomeplugins/builds/updater.json"
+}
