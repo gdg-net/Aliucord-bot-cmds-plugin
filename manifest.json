@@ -11,7 +11,7 @@
     "version": "1.0.0",
     "changelogMedia": null,
     "description": " bot cmds on aliucord official ",
-    "pluginClassName": "co.ding.human.bot.cmd",
+    "pluginClassName": "om.ega.sunkey.AliucordRenamer.AliucordRenamer",
     "changelog": "1.0.0 first release",
     "name": "bot for aliucord",
     "updateUrl": "https://github.com/gdg-net/aliucord-bot-cmds-plugin/bots.zip"
