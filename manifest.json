@@ -14,5 +14,5 @@
     "pluginClassName": "om.ega.sunkey.AliucordRenamer.AliucordRenamer",
     "changelog": "1.0.0 first release",
     "name": "bot for aliucord",
-    "updateUrl": "https://github.com/gdg-net/aliucord-bot-cmds-plugin/bots.zip"
+    "updateUrl": "https://github.com/gdg-net/aliucord-bot-cmds-plugin/tree/main/bots.zip"
 }
