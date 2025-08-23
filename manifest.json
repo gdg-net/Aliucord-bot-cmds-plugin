@@ -10,9 +10,9 @@
     },
     "version": "1.0.1",
     "changelogMedia": null,
-    "description": " bot cmds on aliucord official ",
-    "pluginClassName": "om.ega.sunkey.AliucordRenamer.AliucordRenamer",
-    "changelog": "1.0.0 first release",
+    "description": " bot cmds on aliucord officially",
+    "pluginClassName": "imcoolturtle.bot.cmds",
+    "changelog": "1.0.1 second release",
     "name": "bot for aliucord",
     "updateUrl": "https://github.com/gdg-net/aliucord-bot-cmds-plugin/tree/main/bots.zip"
 }
